@@ -1,0 +1,10 @@
+.input-group-addon {
+  background-color: grey;
+}
+.input-group .input-group-addon + .form-control {
+  border-left: none;
+}
+
+.input-group-addon {
+  padding: 0 10px;
+}
